@@ -1,0 +1,15 @@
+#logInForm {
+    position: relative;
+    top: 100px;
+    left: 15%;
+}
+
+form > button {
+    position: relative;
+    left: 60%;
+}
+
+.footer {
+    position: relative;
+    top: 400px;
+}

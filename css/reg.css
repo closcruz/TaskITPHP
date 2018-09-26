@@ -1,0 +1,19 @@
+#regInput {
+    position: relative;
+    top: 100px;
+}
+
+li.list-group-item-success {
+    color: #12aa3c;
+    background-color: #11522c;
+}
+
+li.list-group-item-danger{
+    color: #54123b;
+    background-color: rgba(207, 24, 160, 0.75);
+}
+
+.footer {
+    position: relative;
+    top: 200px;
+}
